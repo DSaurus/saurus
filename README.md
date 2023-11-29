@@ -1,2 +1,2 @@
 # Personal Website
-https://github.com/DSaurus/saurus.github.io
+https://dsaurus.github.io/saurus/
